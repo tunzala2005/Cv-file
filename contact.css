@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url('cv%20backgound.jpg') center center fixed;
+    backdrop-filter: blur(5px);
+    background-size: cover;
+}
+
+.cv-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-position: center;
+    color: white;
+    background-color: rgba(113, 154, 201, 0.8); 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-frame {
+    text-align: center;
+}
+
+.contact-frame h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2em;
+    color: #010310;
+    margin-bottom: 10px;
+}
+
+.contact-frame h2 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 1.5em;
+    color: #2ecc71;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.contact-frame p {
+    font-family: 'Georgia', serif;
+    font-size: 1.2em;
+    color: #080821;
+}
+
+.contact-frame a {
+    font-family: 'Verdana', sans-serif;
+    font-size: 1.2em;
+    color: #4e2596;
+    text-decoration: none;
+}
+
+.contact-frame a:hover {
+    text-decoration: underline;
+}
+jhjhjj
+.about-frame {
+    text-align: center;
+}
+
+.about-frame h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2em;
+    color: #010310;
+    margin-bottom: 10px;
+}
+
+.about-frame h2 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 1.5em;
+    color: #2ecc71;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.about-frame p {
+    font-family: 'Georgia', serif;
+    font-size: 1.2em;
+    color: #080821;
+}
+
+.about-frame a {
+    font-family: 'Verdana', sans-serif;
+    font-size: 1.2em;
+    color: #4e2596;
+    text-decoration: none;
+}
+
+.about-frame a:hover {
+    text-decoration: underline;
+}
